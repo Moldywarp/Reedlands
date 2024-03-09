@@ -1,0 +1,35 @@
+
+model.armour.back.pack.cloak = model/items/backcloa/backcloaobj.wom
+model.armour.back.pack.cape = model/items/backcape/backcapeobj.wom
+model.armour.back.pack.shoulder = model/items/backshol/backsholobj.wom
+model.armour.back.pack.ronin = model/items/backroni/backroniobj.wom
+model.armour.head.hat.conical = model/items/hatconi/hatconiobj.wom
+model.armour.head.hat.conical.unfinished = model/items/hatconi/unfinishedhatconiobj.wom
+model.armour.head.mask.samurai = model/items/masksamu/masksamuobj.wom
+
+model.decoration.foldingscreen = model/items/decofold/decofoldobj.wom
+
+model.weapon.weaponless.fist = model/items/weapfist/weapfistobj.wom
+model.weapon.weaponless.fist.steel = model/items/weapfist/fistcircleobj.wom
+model.weapon.weaponless.fist.silver = model/items/weapfist/fistsilverobj.wom
+model.weapon.weaponless.fist.copper = model/items/weapfist/fistcopperobj.wom
+
+model.weapon.sword.katana.iron = model/items/weapkata/weapkataobj.wom
+model.weapon.sword.katana.seryll = model/items/weapkata/weapkata2obj.wom
+model.weapon.sword.katana.adamantine = model/items/weapkata/weapkataadamobj.wom
+model.weapon.sword.katana.glimmersteel = model/items/weapkata/weapkataglimobj.wom
+model.weapon.sword.katana.steel = model/items/weapkata/weapkatastelobj.wom
+model.weapon.sword.katana.gold = model/items/weapkata/weapkatagoldobj.wom
+model.weapon.sword.katana.silver = model/items/weapkata/weapkatasilvobj.wom
+model.weapon.sword.katana.copper = model/items/weapkata/weapkatacoppobj.wom
+
+model.armour.head.helm.kabuto = model/items/helmkabu/helmkabuobj.wom
+
+model.armour.head.wig.headband = model/items/hairband/hairbandobj.wom
+
+model.armour.head.wig.topknot = model/items/hairknot/hairknotobj.wom
+
+model.armour.head.mask.pipe = model/items/maskpipe/maskpipeobj.wom
+model.armour.head.mask.lion = model/items/masklion/masklionobj.wom
+
+armor.xml                        = player/armor.xml

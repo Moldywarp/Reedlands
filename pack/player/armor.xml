@@ -1,0 +1,35 @@
+<armor>
+    <helmets>
+        <model.armour.head.wig.headband>
+            <default>
+                <male>
+                    <showHair/>
+                </male>
+            </default>
+        </model.armour.head.wig.headband>
+        <model.armour.head.hat.fishmaster>
+            <default>
+                <male>
+                    <showHair/>
+                </male>
+            </default>
+        </model.armour.head.hat.fishmaster>
+        <model.armour.head.hat.conical>
+            <default>
+                <male>
+                    <showHair/>
+                </male>
+            </default>
+        </model.armour.head.hat.conical>
+    </helmets>
+    <weapons>
+        <model.weapon.sword.katana>
+            <default>
+                <male>
+                    <isWeapon/>
+                    <isTwoHander/>
+                </male>
+            </default>
+        </model.weapon.sword.katana>
+    </weapons>
+</armor>
